@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Clients>
+  <Client>
+    <Balance>0.00</Balance>
+    <Maam>513903641</Maam>
+    <ClientName>עידן 2000 ערד 513903641</ClientName>
+    <ClientID>19884</ClientID>
+    <SortingCode>63</SortingCode>
+  </Client>
+  <Client>
+    <Balance>0.00</Balance>
+    <Maam>066057233</Maam>
+    <ClientName>הגן הנודד 066057233</ClientName>
+    <ClientID>19889</ClientID>
+    <SortingCode>63</SortingCode>
+  </Client>
+  <Client>
+    <Balance>-7307.00</Balance>
+    <Maam>032995573</Maam>
+    <ClientName>אושרת ציוד לגנים 09-2693600</ClientName>
+    <ClientID>20019</ClientID>
+    <SortingCode>63</SortingCode>
+  </Client>
+  <Client>
+    <Balance>0.00</Balance>
+    <Maam>057385379</Maam>
+    <ClientName>מעיין היצירה ערד 057385379</ClientName>
+    <ClientID>20202</ClientID>
+    <SortingCode>63</SortingCode>
+  </Client>
+  <Client>
+    <Balance>0.00</Balance>
+    <Maam>022520753</Maam>
+    <ClientName>צעצועים חסידה 022520753</ClientName>
+    <ClientID>20940</ClientID>
+    <SortingCode>63</SortingCode>
+  </Client>
+  <Client>
+    <Balance>0.00</Balance>
+    <Maam />
+    <ClientName>דע לי 08-9465111</ClientName>
+    <ClientID>22001</ClientID>
+    <SortingCode>63</SortingCode>
+  </Client>
+  <Client>
+    <Balance>-7106.20</Balance>
+    <Maam />
+    <ClientName>הופ לגן 052-3476755</ClientName>
+    <ClientID>22003</ClientID>
+    <SortingCode>63</SortingCode>
+  </Client>
+  <Client>
+    <Balance>0.00</Balance>
+    <Maam>514064187</Maam>
+    <ClientName>יוני דניאלי 514064187</ClientName>
+    <ClientID>22006</ClientID>
+    <SortingCode>63</SortingCode>
+  </Client>
+  <Client>
+    <Balance>0.00</Balance>
+    <Maam>032347130</Maam>
+    <ClientName>דניאל לגן</ClientName>
+    <ClientID>22008</ClientID>
+    <SortingCode>63</SortingCode>
+  </Client>
+  <Client>
+    <Balance>-9870.00</Balance>
+    <Maam>513761460</Maam>
+    <ClientName>דניאלי צעצועים בעמ 513761460</ClientName>
+    <ClientID>22009</ClientID>
+    <SortingCode>63</SortingCode>
+  </Client>
+  <Client>
+    <Balance>0.00</Balance>
+    <Maam>059274316</Maam>
+    <ClientName>גן גני י-ם 050-2863866</ClientName>
+    <ClientID>22015</ClientID>
+    <SortingCode>63</SortingCode>
+  </Client>
+  <Client>
+    <Balance>-8903.00</Balance>
+    <Maam>62999289</Maam>
+    <ClientName>בזוית אחרת 62999289</ClientName>
+    <ClientID>22016</ClientID>
+    <SortingCode>63</SortingCode>
+  </Client>
+  <Client>
+    <Balance>-5163.00</Balance>
+    <Maam>069381374</Maam>
+    <ClientName>צבי קל 069381374</ClientName>
+    <ClientID>22018</ClientID>
+    <SortingCode>63</SortingCode>
+  </Client>
+  <Client>
+    <Balance>-37717.00</Balance>
+    <Maam>512711060</Maam>
+    <ClientName>לגן ולטף פ"ת 512711060</ClientName>
+    <ClientID>22019</ClientID>
+    <SortingCode>63</SortingCode>
+  </Client>
+  <Client>
+    <Balance>0.00</Balance>
+    <Maam>24325243</Maam>
+    <ClientName>בר טל 24325243</ClientName>
+    <ClientID>22021</ClientID>
+    <SortingCode>63</SortingCode>
+  </Client>
+  <Client>
+    <Balance>-4073.00</Balance>
+    <Maam>512075136</Maam>
+    <ClientName>דף רם בע"מ 512075136</ClientName>
+    <ClientID>22022</ClientID>
+    <SortingCode>63</SortingCode>
+  </Client>
+  <Client>
+    <Balance>-5703.65</Balance>
+    <Maam>510920374</Maam>
+    <ClientName>איתר שיווק 510920374</ClientName>
+    <ClientID>22023</ClientID>
+    <SortingCode>63</SortingCode>
+  </Client>
+  <Client>
+    <Balance>-2023.00</Balance>
+    <Maam>040378937</Maam>
+    <ClientName>טופ שופ פ"ת 040378937</ClientName>
+    <ClientID>22025</ClientID>
+    <SortingCode>63</SortingCode>
+  </Client>
+  <Client>
+    <Balance>24399.00</Balance>
+    <Maam>512890898</Maam>
+    <ClientName>הגן של נועה 512890898</ClientName>
+    <ClientID>22029</ClientID>
+    <SortingCode>63</SortingCode>
+  </Client>
+  <Client>
+    <Balance>0.00</Balance>
+    <Maam>016670374</Maam>
+    <ClientName>אוספיס טניה 016670374</ClientName>
+    <ClientID>22030</ClientID>
+    <SortingCode>63</SortingCode>
+  </Client>
+  <Client>
+    <Balance>0.00</Balance>
+    <Maam>513237545</Maam>
+    <ClientName>מ.פסגה ת"א 513237545</ClientName>
+    <ClientID>22031</ClientID>
+    <SortingCode>63</SortingCode>
+  </Client>
+  <Client>
+    <Balance>-4641.00</Balance>
+    <Maam>511627523</Maam>
+    <ClientName>מזרחי שיווק ישראל 511627523</ClientName>
+    <ClientID>22033</ClientID>
+    <SortingCode>63</SortingCode>
+  </Client>
+  <Client>
+    <Balance>0.00</Balance>
+    <Maam>510959141</Maam>
+    <ClientName>הנייר ראשל"צ 510959141</ClientName>
+    <ClientID>22034</ClientID>
+    <SortingCode>63</SortingCode>
+  </Client>
+  <Client>
+    <Balance>0.00</Balance>
+    <Maam>62849922</Maam>
+    <ClientName>עיר גנים י-ם 62849922</ClientName>
+    <ClientID>22036</ClientID>
+    <SortingCode>63</SortingCode>
+  </Client>
+  <Client>
+    <Balance>-5608.00</Balance>
+    <Maam>512563370</Maam>
+    <ClientName>משחק ומחשבה 512563370</ClientName>
+    <ClientID>22038</ClientID>
+    <SortingCode>63</SortingCode>
+  </Client>
+  <Client>
+    <Balance>-3129.00</Balance>
+    <Maam>33468273</Maam>
+    <ClientName>שי לגן 33468273</ClientName>
+    <ClientID>22040</ClientID>
+    <SortingCode>63</SortingCode>
+  </Client>
+  <Client>
+    <Balance>-27.00</Balance>
+    <Maam>058487232</Maam>
+    <ClientName>דניאלי יוסי 058487232</ClientName>
+    <ClientID>22042</ClientID>
+    <SortingCode>63</SortingCode>
+  </Client>
+  <Client>
+    <Balance>-4783.40</Balance>
+    <Maam>513947036</Maam>
+    <ClientName>מטמון פלוס 513947036</ClientName>
+    <ClientID>22060</ClientID>
+    <SortingCode>63</SortingCode>
+  </Client>
+  <Client>
+    <Balance>-6036.00</Balance>
+    <Maam>514429398</Maam>
+    <ClientName>פלוס לגננת 514429398</ClientName>
+    <ClientID>22063</ClientID>
+    <SortingCode>63</SortingCode>
+  </Client>
+  <Client>
+    <Balance>-1078.00</Balance>
+    <Maam>513054478</Maam>
+    <ClientName>מרכז הגנים והיצירה 513054478</ClientName>
+    <ClientID>22100</ClientID>
+    <SortingCode>63</SortingCode>
+  </Client>
+  <Client>
+    <Balance>-8607.00</Balance>
+    <Maam>557173374</Maam>
+    <ClientName>אלאדין 557173374 09-7672851</ClientName>
+    <ClientID>23003</ClientID>
+    <SortingCode>63</SortingCode>
+  </Client>
+  <Client>
+    <Balance>-9065.00</Balance>
+    <Maam>514461508</Maam>
+    <ClientName>בוטיצ'לי 514461508</ClientName>
+    <ClientID>23004</ClientID>
+    <SortingCode>63</SortingCode>
+  </Client>
+  <Client>
+    <Balance>-44659.80</Balance>
+    <Maam>514349752</Maam>
+    <ClientName>בדרך אל הגן 514349752 2010</ClientName>
+    <ClientID>23007</ClientID>
+    <SortingCode>63</SortingCode>
+  </Client>
+  <Client>
+    <Balance>-28041.40</Balance>
+    <Maam>557793502</Maam>
+    <ClientName>באג לגן נתניה 557793502</ClientName>
+    <ClientID>23016</ClientID>
+    <SortingCode>63</SortingCode>
+  </Client>
+  <Client>
+    <Balance>0.00</Balance>
+    <Maam>513232355</Maam>
+    <ClientName>ספרי שולמית-ב.ש</ClientName>
+    <ClientID>23027</ClientID>
+    <SortingCode>63</SortingCode>
+  </Client>
+  <Client>
+    <Balance>0.00</Balance>
+    <Maam>513912717</Maam>
+    <ClientName>אי המטמון</ClientName>
+    <ClientID>23036</ClientID>
+    <SortingCode>63</SortingCode>
+  </Client>
+  <Client>
+    <Balance>16003.00</Balance>
+    <Maam>558098877</Maam>
+    <ClientName>פאזל024573909 -</ClientName>
+    <ClientID>23460</ClientID>
+    <SortingCode>63</SortingCode>
+  </Client>
+  <Client>
+    <Balance>-458.00</Balance>
+    <Maam>053922803</Maam>
+    <ClientName>גבע</ClientName>
+    <ClientID>23461</ClientID>
+    <SortingCode>63</SortingCode>
+  </Client>
+  <Client>
+    <Balance>-31854.00</Balance>
+    <Maam>514630995</Maam>
+    <ClientName>לגן ולטף דרום 2011 בעמ</ClientName>
+    <ClientID>23469</ClientID>
+    <SortingCode>63</SortingCode>
+  </Client>
+  <Client>
+    <Balance>-3674.00</Balance>
+    <Maam>23672918</Maam>
+    <ClientName>הכל לגן דימונה 23672918</ClientName>
+    <ClientID>40526</ClientID>
+    <SortingCode>63</SortingCode>
+  </Client>
+  <Client>
+    <Balance>-11563.00</Balance>
+    <Maam>510846207</Maam>
+    <ClientName>כל בו גן 510846207 03-5793087</ClientName>
+    <ClientID>41101</ClientID>
+    <SortingCode>63</SortingCode>
+  </Client>
+</Clients>

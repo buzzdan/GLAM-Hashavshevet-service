@@ -1,0 +1,55 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+@section JavaScript
+{
+    <script type="text/javascript" src="@Url.Content("~/Scripts/NewOrder/productsLoader.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/Scripts/NewOrder/newOrder.js")"></script>
+    <script src="@Url.Content("~/Scripts/NewOrder/orderItem.js")"></script>
+    <script src="@Url.Content("~/Scripts/NewOrder/GlamProductsService.js")"></script>
+    <script src="@Url.Content("~/Scripts/BrowseOrders/BrowseOrders.js")"></script>
+    <script src="@Url.Content("~/Scripts/moment.min.js")"></script>
+}
+@section CSS
+{
+    <link href="@Url.Content("~/Content/newOrder.css")" rel="stylesheet" />
+}
+
+<h2>הזמנה חדשה</h2>
+<div id="orderContainer">
+
+    <div id="clientsPickerContainer"></div>
+
+    <div>
+        <table id="ItemsTitle">
+            <tr>
+                <th>פריטים</th>
+                <th>מחיר פריט</th>
+                <th>כמות</th>
+                <th>מחיר כולל</th>
+            </tr>
+        </table>
+        @*<div>Items:</div>*@
+        <div id="itemsContainer">
+        </div>
+    </div>
+
+    <input type="button" id="AddItemButton" value="+" />
+
+    <div id="results">
+        <span id="discountContainer">Discount:<input type="text" id="discount" value="0" />%
+        </span>
+        <span id="TotalPriceContainer">Total Price:
+            <span id="TotalPrice">0</span>
+        </span>
+    </div>
+    <input type="button" id="SubmitOrder" value="בצע הזמנה" />
+</div>
+
+<script>
+    $(document).ready(function () {
+        var currentPage = new newOrderPage();
+        currentPage.init();
+    });
+</script>

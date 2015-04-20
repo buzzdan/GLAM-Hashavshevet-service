@@ -1,0 +1,89 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0031)http://localhost:19749/NewOrder -->
+<!DOCTYPE html PUBLIC "" "">
+<html lang="en">
+<head>
+    <meta content="IE=10.000"
+        http-equiv="X-UA-Compatible">
+
+    <meta charset="utf-8">
+    <title>Index - Welcome to GLAM</title>
+    <link
+        href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
+    <meta name="viewport" content="width=device-width">
+    <link href="Index%20-%20Welcome%20to%20GLAM_files/site.css"
+        rel="stylesheet">
+    <link href="Index%20-%20Welcome%20to%20GLAM_files/select2.css"
+        rel="stylesheet">
+    <script src="Index%20-%20Welcome%20to%20GLAM_files/modernizr-2.6.2.js"></script>
+
+    <script src="Index%20-%20Welcome%20to%20GLAM_files/jquery-1.9.1.js"></script>
+
+    <script src="Index%20-%20Welcome%20to%20GLAM_files/select2.js"></script>
+
+    <script src="Index%20-%20Welcome%20to%20GLAM_files/numericTextbox.js"></script>
+
+    <script src="Index%20-%20Welcome%20to%20GLAM_files/productsLoader.js" type="text/javascript"></script>
+
+    <script src="Index%20-%20Welcome%20to%20GLAM_files/newOrder.js" type="text/javascript"></script>
+
+    <script src="Index%20-%20Welcome%20to%20GLAM_files/orderItem.js"></script>
+    <link href="Index%20-%20Welcome%20to%20GLAM_files/newOrder.css" rel="stylesheet">
+
+    <meta name="GENERATOR" content="MSHTML 10.00.9200.16750">
+</head>
+<body>
+    <header>
+<DIV class="content-wrapper">
+<DIV class="float-left">
+<P class="site-title"><A href="http://localhost:19749/">Glam</A></P></DIV>
+<DIV class="float-right"><SECTION id="login">                            Hello,
+<A title="Manage" class="username" href="http://localhost:19749/SGAccount/Manage">admin</A>!
+<FORM id="logoutForm" action="/SGAccount/LogOff" method="post"><INPUT name="__RequestVerificationToken"
+type="hidden" value="hD_0Jl3NAFYco40OuZwsffNPry2A79i3XO1U3v1vhzek1ErBBYGbioLf3YrjQqgrEft4kFjckAzqtjmd_7qZQHga0vrUJtDpLD1bK9HuuYc1">
+            <A
+href="javascript:document.getElementById('logoutForm').submit()">Log off</A>
+</FORM>                    </SECTION><NAV>
+<UL id="menu">
+  <LI><A href="http://localhost:19749/">Home</A></LI>
+  <LI><A href="http://localhost:19749/NewOrder">New Order</A></LI>
+
+  <LI><A href="http://localhost:19749/SGAccount/ChangePassword">Change
+  Password</A></LI>
+  <LI><A href="http://localhost:19749/SecurityGuard">Security Guard</A></LI>
+                  </UL></NAV></DIV></DIV></header>
+    <div id="body">
+        <section class="content-wrapper main-content clear-fix">
+<H2>הזמנה חדשה</H2>
+<DIV>
+<DIV id="clientsPickerContainer"></DIV>
+<DIV>
+<TABLE id="ItemsTitle">
+  <TBODY>
+  <TR>
+    <TH>פריטים</TH>
+    <TH>מחיר פריט</TH>
+    <TH>כמות</TH>
+    <TH>מחיר כולל</TH></TR></TBODY></TABLE>
+<DIV
+id="itemsContainer"></DIV></DIV><INPUT id="AddItemButton" type="button" value="+">
+
+<DIV id="results"><SPAN id="discountContainer">            Discount:<INPUT id="discount"
+type="text" value="0">%         </SPAN>         <SPAN
+id="TotalPriceContainer">Total Price:             <SPAN id="TotalPrice">0</SPAN>
+        </SPAN>     </DIV><INPUT id="SubmitOrder" type="button" value="בצע הזמנה">
+</DIV>
+<SCRIPT>
+    $(document).ready(function () {
+        var currentPage = new newOrderPage();
+        currentPage.init();
+    });
+</SCRIPT>
+         </section>
+    </div>
+    <footer>
+<DIV class="content-wrapper">
+<DIV class="float-left">
+<P>© 2013 - My ASP.NET MVC Application</P></DIV></DIV></footer>
+</body>
+</html>

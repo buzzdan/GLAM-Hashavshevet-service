@@ -1,0 +1,24 @@
+.itemContainer2 input[type='text'] {
+	width: 150px; margin-right: 25px; margin-left: 10px; -moz-border-radius: 15px; border-radius: 15px;
+	font-size: 1.2em;
+}
+
+
+#ItemsTitle2 {
+	border-collapse: separate;
+	width: 65%;
+	/*border-spacing: 135px 6px;*/
+	align-content: center;
+	text-align: center;
+	padding-left: 55px;
+	padding-bottom: 60px;
+}
+#ItemsTitle td {
+	padding: 100px; text-align:center;
+}
+
+tr.spaceUnder > td
+{
+  padding-bottom: 6em;
+  margin-bottom: 6em;
+}

@@ -1,0 +1,6 @@
+C:\Users\Dan1\Documents\Visual Studio 2012\Projects\GlamHashAdapter\GlamImporter\obj\Release\GlamImporter.csprojResolveAssemblyReference.cache
+C:\Users\Dan1\Documents\Visual Studio 2012\Projects\GlamHashAdapter\GlamImporter\bin\Release\GlamImporter.exe.config
+C:\Users\Dan1\Documents\Visual Studio 2012\Projects\GlamHashAdapter\GlamImporter\bin\Release\GlamImporter.exe
+C:\Users\Dan1\Documents\Visual Studio 2012\Projects\GlamHashAdapter\GlamImporter\bin\Release\GlamImporter.pdb
+C:\Users\Dan1\Documents\Visual Studio 2012\Projects\GlamHashAdapter\GlamImporter\obj\Release\GlamImporter.exe
+C:\Users\Dan1\Documents\Visual Studio 2012\Projects\GlamHashAdapter\GlamImporter\obj\Release\GlamImporter.pdb

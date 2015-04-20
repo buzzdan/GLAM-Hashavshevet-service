@@ -1,0 +1,28 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section JavaScript
+{
+    @Scripts.Render("~/bundles/jqueryui")
+    <script src="@Url.Content("~/Scripts/grid.locale-he.js")"></script>
+    <script src="@Url.Content("~/Scripts/jquery.jqGrid.min.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/Scripts/BrowseOrders/BrowseOrders.js")"></script>
+    <script src="@Url.Content("~/Scripts/moment.min.js")"></script>
+    <script src="~/Scripts/NewOrder/GlamProductsService.js"></script>
+}
+@section CSS
+{
+    <link href="@Url.Content("~/Content/newOrder.css")" rel="stylesheet" />
+    <link href="~/Content/ui.jqgrid.css" rel="stylesheet" />
+    @Styles.Render("~/Content/themes/base/css")
+}
+
+<h2>חיפוש הזמנות</h2>
+<div id="orderBrowserContainer"></div>
+
+<script>
+    var page = new OrdersBrowserPage();
+    page.init();
+</script>

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="GlamServer.Controllers.ForcastServiceController">
+    <Position X="0.5" Y="0.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Controllers\ForcastServiceController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GlamServer.Controllers.ClientsController">
+    <Position X="3.75" Y="0.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAEAEAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Controllers\ClientsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GlamServer.Controllers.HolidaysController">
+    <Position X="7" Y="0.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\HolidaysController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GlamServer.Controllers.NewOrderController" Collapsed="true">
+    <Position X="5.25" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\NewOrderController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GlamRest.OrderController">
+    <Position X="0.5" Y="2.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAhAAAAAABAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\OrderController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GlamServer.Controllers.ProductsController">
+    <Position X="7" Y="2.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAQAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Controllers\ProductsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GlamServer.Controllers.ForcastController" Collapsed="true">
+    <Position X="3.25" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\ForcastController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GlamServer.DAL.SqlClientsRepository">
+    <Position X="0.5" Y="5.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>DAL\SqlClientsRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GlamServer.DAL.SqlHolidaysRepository">
+    <Position X="0.5" Y="7.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DAL\SqlHolidaysRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EasyRestServer.DAL.SqlOrderRepository">
+    <Position X="3.75" Y="5.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAABEAAAAAAAAAAQAAAACAAAAEAAAAACAAAAAAAAA=</HashCode>
+      <FileName>DAL\SqlOrderRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GlamServer.DAL.SqlProductsRepository">
+    <Position X="7" Y="5.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>DAL\SqlProductsRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GlamServer.Controllers.BrowseOrdersController" Collapsed="true">
+    <Position X="4.25" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\BrowseOrdersController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

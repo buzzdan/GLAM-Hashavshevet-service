@@ -1,0 +1,383 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Clients>
+  <Client>
+    <ClientName>בנק לאומי  חן  845-012545-79</ClientName>
+    <ClientID>10001</ClientID>
+  </Client>
+  <Client>
+    <ClientName>בנק פועלים  חן-מטח   642-587451</ClientName>
+    <ClientID>10002</ClientID>
+  </Client>
+  <Client>
+    <ClientName>הוצאות פחת נצבר</ClientName>
+    <ClientID>10101</ClientID>
+  </Client>
+  <Client>
+    <ClientName>בנק ויזה שבא</ClientName>
+    <ClientID>11103</ClientID>
+  </Client>
+  <Client>
+    <ClientName>בנק ישראכרט שבא</ClientName>
+    <ClientID>11104</ClientID>
+  </Client>
+  <Client>
+    <ClientName>בנק דיינרס שבא</ClientName>
+    <ClientID>11105</ClientID>
+  </Client>
+  <Client>
+    <ClientName>בנק אמריקאו אקספרס שבא</ClientName>
+    <ClientID>11106</ClientID>
+  </Client>
+  <Client>
+    <ClientName>קופת מזומן</ClientName>
+    <ClientID>15001</ClientID>
+  </Client>
+  <Client>
+    <ClientName>קופת שקים</ClientName>
+    <ClientID>15002</ClientID>
+  </Client>
+  <Client>
+    <ClientName>קופת ויזה</ClientName>
+    <ClientID>15003</ClientID>
+  </Client>
+  <Client>
+    <ClientName>קופת ישראכרט</ClientName>
+    <ClientID>15004</ClientID>
+  </Client>
+  <Client>
+    <ClientName>קופת דיינרס</ClientName>
+    <ClientID>15005</ClientID>
+  </Client>
+  <Client>
+    <ClientName>קופת אמריקאן אקספרס</ClientName>
+    <ClientID>15006</ClientID>
+  </Client>
+  <Client>
+    <ClientName>קופה קטנה</ClientName>
+    <ClientID>15201</ClientID>
+  </Client>
+  <Client>
+    <ClientName>קופת מטח מזומן</ClientName>
+    <ClientID>15501</ClientID>
+  </Client>
+  <Client>
+    <ClientName>קופת מטח שקים</ClientName>
+    <ClientID>15502</ClientID>
+  </Client>
+  <Client>
+    <ClientName>קופת מטח ויזה</ClientName>
+    <ClientID>15503</ClientID>
+  </Client>
+  <Client>
+    <ClientName>קופת מטח ישראכרט</ClientName>
+    <ClientID>15504</ClientID>
+  </Client>
+  <Client>
+    <ClientName>קופת מטח דיינרס</ClientName>
+    <ClientID>15505</ClientID>
+  </Client>
+  <Client>
+    <ClientName>קופת מטח אמריקאן אקספרס</ClientName>
+    <ClientID>15506</ClientID>
+  </Client>
+  <Client>
+    <ClientName>קופת שקים חוזרים</ClientName>
+    <ClientID>16001</ClientID>
+  </Client>
+  <Client>
+    <ClientName>מוסיק שיווק</ClientName>
+    <ClientID>20001</ClientID>
+  </Client>
+  <Client>
+    <ClientName>בועות שופ</ClientName>
+    <ClientID>20002</ClientID>
+  </Client>
+  <Client>
+    <ClientName>ליווט </ClientName>
+    <ClientID>20003</ClientID>
+  </Client>
+  <Client>
+    <ClientName>פרו-אופיס</ClientName>
+    <ClientID>20004</ClientID>
+  </Client>
+  <Client>
+    <ClientName>QTO</ClientName>
+    <ClientID>20006</ClientID>
+  </Client>
+  <Client>
+    <ClientName>מוני גלרית תמונות</ClientName>
+    <ClientID>20007</ClientID>
+  </Client>
+  <Client>
+    <ClientName>רוני שרותי יעוץ- חרקי עץ</ClientName>
+    <ClientID>20008</ClientID>
+  </Client>
+  <Client>
+    <ClientName>כל בו חשמל</ClientName>
+    <ClientID>20009</ClientID>
+  </Client>
+  <Client>
+    <ClientName>שטיח יחוד - יבוא ושיווק שטיחים בעמ</ClientName>
+    <ClientID>20010</ClientID>
+  </Client>
+  <Client>
+    <ClientName>S&amp;M  עמילי המכס</ClientName>
+    <ClientID>21001</ClientID>
+  </Client>
+  <Client>
+    <ClientName>רהיט לי</ClientName>
+    <ClientID>21002</ClientID>
+  </Client>
+  <Client>
+    <ClientName>GAL COMP</ClientName>
+    <ClientID>22001</ClientID>
+  </Client>
+  <Client>
+    <ClientName>א.ד נכסים</ClientName>
+    <ClientID>23001</ClientID>
+  </Client>
+  <Client>
+    <ClientName>לקוח לא מזוהה</ClientName>
+    <ClientID>30000</ClientID>
+  </Client>
+  <Client>
+    <ClientName>כיתנס</ClientName>
+    <ClientID>30001</ClientID>
+  </Client>
+  <Client>
+    <ClientName>סימפטיה שופ</ClientName>
+    <ClientID>30002</ClientID>
+  </Client>
+  <Client>
+    <ClientName>מועדון הים הכסוף</ClientName>
+    <ClientID>30003</ClientID>
+  </Client>
+  <Client>
+    <ClientName>absolut l.t.d</ClientName>
+    <ClientID>30004</ClientID>
+  </Client>
+  <Client>
+    <ClientName>אורבי תעשיות</ClientName>
+    <ClientID>30005</ClientID>
+  </Client>
+  <Client>
+    <ClientName>אופיס ניו</ClientName>
+    <ClientID>30006</ClientID>
+  </Client>
+  <Client>
+    <ClientName>עו"ד נאמן משה</ClientName>
+    <ClientID>30008</ClientID>
+  </Client>
+  <Client>
+    <ClientName>נחמן - אביזי נוי לבית</ClientName>
+    <ClientID>30009</ClientID>
+  </Client>
+  <Client>
+    <ClientName>רוני וחנה אלעד</ClientName>
+    <ClientID>30010</ClientID>
+  </Client>
+  <Client>
+    <ClientName>בר יישומים ועיצוב</ClientName>
+    <ClientID>30012</ClientID>
+  </Client>
+  <Client>
+    <ClientName>רשת שקם סניף מרכזי</ClientName>
+    <ClientID>33001</ClientID>
+  </Client>
+  <Client>
+    <ClientName>שקם - סניף רמת גן</ClientName>
+    <ClientID>33002</ClientID>
+  </Client>
+  <Client>
+    <ClientName>שקם חולון</ClientName>
+    <ClientID>33003</ClientID>
+  </Client>
+  <Client>
+    <ClientName>שקם פתח תקווה</ClientName>
+    <ClientID>33004</ClientID>
+  </Client>
+  <Client>
+    <ClientName>שקם באר שבע</ClientName>
+    <ClientID>33005</ClientID>
+  </Client>
+  <Client>
+    <ClientName>FUNNY ST</ClientName>
+    <ClientID>34001</ClientID>
+  </Client>
+  <Client>
+    <ClientName>הכנסות ממכירה בארץ - כולל מעמ</ClientName>
+    <ClientID>40001</ClientID>
+  </Client>
+  <Client>
+    <ClientName>הכנסות משרות</ClientName>
+    <ClientID>40002</ClientID>
+  </Client>
+  <Client>
+    <ClientName>הכנסות מהדרכה</ClientName>
+    <ClientID>40003</ClientID>
+  </Client>
+  <Client>
+    <ClientName>הכנסות ממכירות פטורות</ClientName>
+    <ClientID>45001</ClientID>
+  </Client>
+  <Client>
+    <ClientName>הכנסות מייצוא</ClientName>
+    <ClientID>45002</ClientID>
+  </Client>
+  <Client>
+    <ClientName>הכנסות חשבונית עצמית</ClientName>
+    <ClientID>45103</ClientID>
+  </Client>
+  <Client>
+    <ClientName>הוצאות</ClientName>
+    <ClientID>50001</ClientID>
+  </Client>
+  <Client>
+    <ClientName>הוצאות חשמל</ClientName>
+    <ClientID>50002</ClientID>
+  </Client>
+  <Client>
+    <ClientName>הוצאות טלפון</ClientName>
+    <ClientID>50003</ClientID>
+  </Client>
+  <Client>
+    <ClientName>הוצאות קופה קטנה</ClientName>
+    <ClientID>50005</ClientID>
+  </Client>
+  <Client>
+    <ClientName>הוצאות משרדיות</ClientName>
+    <ClientID>50011</ClientID>
+  </Client>
+  <Client>
+    <ClientName>הוצאות חניה</ClientName>
+    <ClientID>50012</ClientID>
+  </Client>
+  <Client>
+    <ClientName>הוצאות כיבוד</ClientName>
+    <ClientID>50015</ClientID>
+  </Client>
+  <Client>
+    <ClientName>הוצאות פחת</ClientName>
+    <ClientID>50501</ClientID>
+  </Client>
+  <Client>
+    <ClientName>הוצאות יבוא</ClientName>
+    <ClientID>51001</ClientID>
+  </Client>
+  <Client>
+    <ClientName>הוצאות הובלה</ClientName>
+    <ClientID>51002</ClientID>
+  </Client>
+  <Client>
+    <ClientName>הוצאות אחסנה - בונדד</ClientName>
+    <ClientID>51003</ClientID>
+  </Client>
+  <Client>
+    <ClientName>הוצאות עמיל מכס</ClientName>
+    <ClientID>51004</ClientID>
+  </Client>
+  <Client>
+    <ClientName>הוצאות אגרות</ClientName>
+    <ClientID>51005</ClientID>
+  </Client>
+  <Client>
+    <ClientName>הוצאות מכס</ClientName>
+    <ClientID>51006</ClientID>
+  </Client>
+  <Client>
+    <ClientName>הוצאות ביטוח</ClientName>
+    <ClientID>51007</ClientID>
+  </Client>
+  <Client>
+    <ClientName>עמלות בנק</ClientName>
+    <ClientID>55001</ClientID>
+  </Client>
+  <Client>
+    <ClientName>הפרשי שער בשקלים</ClientName>
+    <ClientID>55002</ClientID>
+  </Client>
+  <Client>
+    <ClientName>הפרשי שער במטח</ClientName>
+    <ClientID>55003</ClientID>
+  </Client>
+  <Client>
+    <ClientName>חשבון המרה</ClientName>
+    <ClientID>55004</ClientID>
+  </Client>
+  <Client>
+    <ClientName>ביטול יתרות</ClientName>
+    <ClientID>55005</ClientID>
+  </Client>
+  <Client>
+    <ClientName>מעמ עסקאות</ClientName>
+    <ClientID>60001</ClientID>
+  </Client>
+  <Client>
+    <ClientName>מעמ תשומות</ClientName>
+    <ClientID>60002</ClientID>
+  </Client>
+  <Client>
+    <ClientName>מעמ חוז</ClientName>
+    <ClientID>60003</ClientID>
+  </Client>
+  <Client>
+    <ClientName>מעמ תשומות לנכסים</ClientName>
+    <ClientID>60004</ClientID>
+  </Client>
+  <Client>
+    <ClientName>מעמ לרשומון יבוא</ClientName>
+    <ClientID>61004</ClientID>
+  </Client>
+  <Client>
+    <ClientName>מנחם  גולדשמיט - סוכן 2</ClientName>
+    <ClientID>65002</ClientID>
+  </Client>
+  <Client>
+    <ClientName>יעקב אליעזר - סוכן 3</ClientName>
+    <ClientID>65003</ClientID>
+  </Client>
+  <Client>
+    <ClientName>דינה כרמון - סוכן 4</ClientName>
+    <ClientID>65004</ClientID>
+  </Client>
+  <Client>
+    <ClientName>תקציב הכנסות</ClientName>
+    <ClientID>69001</ClientID>
+  </Client>
+  <Client>
+    <ClientName>תקציב הוצאות</ClientName>
+    <ClientID>69002</ClientID>
+  </Client>
+  <Client>
+    <ClientName>ביטוח לאומי</ClientName>
+    <ClientID>70001</ClientID>
+  </Client>
+  <Client>
+    <ClientName>מס הכנסה</ClientName>
+    <ClientID>70002</ClientID>
+  </Client>
+  <Client>
+    <ClientName>ניכוי במקור מספקים</ClientName>
+    <ClientID>70003</ClientID>
+  </Client>
+  <Client>
+    <ClientName>ניכוי במקור לקוחות</ClientName>
+    <ClientID>70004</ClientID>
+  </Client>
+  <Client>
+    <ClientName>ביטול יתרות</ClientName>
+    <ClientID>90001</ClientID>
+  </Client>
+  <Client>
+    <ClientName>חן נגדי לשקים חוזרים</ClientName>
+    <ClientID>90006</ClientID>
+  </Client>
+  <Client>
+    <ClientName>עודפים IFRS</ClientName>
+    <ClientID>99998</ClientID>
+  </Client>
+  <Client>
+    <ClientName>חשבון עודפים</ClientName>
+    <ClientID>99999</ClientID>
+  </Client>
+</Clients>

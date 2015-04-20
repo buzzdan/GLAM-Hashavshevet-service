@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="GlamHashAdapter.AutoOrderFeeder.OrderFeederCordinator">
+    <Position X="4.25" Y="0.5" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAQEAIABAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>AutoOrderFeeder\OrderFeeder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GlamHashAdapter.OrderWindow">
+    <Position X="1" Y="3.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ACACAAAACBIAAAAAAEAAAQAAAAAAAAAAgAEAAAQAAAA=</HashCode>
+      <FileName>AutoOrderFeeder\OrderWindow.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GlamHashAdapter.DAL.SqlOrdersRepository">
+    <Position X="4.25" Y="3.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAABCAAAAAAAwAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>DAL\SqlOrdersRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="GlamHashAdapter.AutoOrderFeeder.IHashavshevetOrdersService">
+    <Position X="1" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>AutoOrderFeeder\IHashavshevetOrdersService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="GlamHashAdapter.DAL.IOrdersRepository">
+    <Position X="1" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>DAL\IOrdersRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

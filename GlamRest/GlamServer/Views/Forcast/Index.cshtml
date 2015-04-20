@@ -1,0 +1,126 @@
+﻿@{
+    ViewBag.Title = "Forcast";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@section JavaScript
+{
+    @*@Scripts.Render("~/bundles/jqueryui")*@
+
+    @* <script type="text/javascript" src="@Url.Content("~/Scripts/NewOrder/productsLoader.js")"></script>
+	<script type="text/javascript" src="@Url.Content("~/Scripts/NewOrder/newOrder.js")"></script>
+	<script src="@Url.Content("~/Scripts/NewOrder/orderItem.js")"></script>*@
+
+    <script src="//code.jquery.com/ui/1.10.3/jquery-ui.js" type="text/javascript"></script>
+    <script src="@Url.Content("~/Scripts/Forcast/forcast.js")"></script>
+    <script src="@Url.Content("~/Scripts/NewOrder/GlamProductsService.js")"></script>
+
+    <img src="../../Content/images/calendar.gif" alt="" />
+    <script>
+
+        $(function () {
+
+            var currentPage = new forcastPage();
+            currentPage.initJquryUIItems();
+            currentPage.initPage();
+        });
+    </script>
+}
+@section CSS
+{
+    @*@Styles.Render("~/Content/themes/base/css")*@
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css">
+    <link href="@Url.Content("~/Content/forcast.css")" rel="stylesheet" />
+    <link href="@Url.Content("~/Content/newOrder.css")" rel="stylesheet" />
+}
+<h2>חיזוי מוצרים</h2>
+<hr />
+<br />
+<br />
+
+<div id="tabs">
+    <ul>
+        <li><a href="#tabs-1">חיזוי על פי פריט בטווח תאריכים</a></li>
+        <li><a href="#tabs-2">חיזוי על פי פריט</a></li>
+        <li><a href="#tabs-3">חיזוי על פי מועדים</a></li>
+    </ul>
+
+    <div id="tabs-1">
+        <table width="50%" id="ItemsTitle2" align="center">
+            <tbody>
+                <tr class="spaceUnder">
+                    <th width="55%">
+                        <div>
+                            <select name="selectMe0" id="selectMe0" class="chzn-select" style="width: 275px;" tabindex="7" data-placeholder="Product ID">
+                                <option value="choose">בחר מוצר</option>
+                            </select>
+                            <script type="text/javascript"> $("#selectMe0").select2(); /*$(".chzn-select-deselect").chosen({ allow_single_deselect: true });*/ </script>
+                        </div>
+                    </th>
+                    <th width="45%">פריט</th>
+                </tr>
+
+                <tr class="itemContainer2">
+                    <th>
+                        <input type="text" id="from" name="from" /></th>
+                    <th>
+                        <p>תאריך תחילת חיזוי</p>
+                    </th>
+                </tr>
+                <tr class="itemContainer2">
+                    <th>
+                        <input type="text" id="to" name="to" /></th>
+                    <th>תאריך סיום חיזוי</th>
+                </tr>
+            </tbody>
+        </table>
+        <div align="left" style="padding-left: 150px">
+            <input id="doForcastByProductDates" type="button" value="בצע חיזוי">
+        </div>
+        <div id="productDatesForcastResults">
+        </div>
+    </div>
+    <div id="tabs-2">
+        <table width="50%" id="ItemsTitle2" align="center">
+            <tbody>
+                <tr class="spaceUnder">
+                    <th width="55%">
+                        <div>
+                            <select name="selectMe1" id="selectMe1" class="chzn-select" style="width: 275px;" tabindex="7" data-placeholder="Product ID">
+                                <option value="choose">בחר מוצר</option>
+                            </select>
+                            <script type="text/javascript"> $("#selectMe1").select2(); /*$(".chzn-select-deselect").chosen({ allow_single_deselect: true });*/ </script>
+                        </div>
+                    </th>
+                    <th width="45%">פריט</th>
+                </tr>
+            </tbody>
+        </table>
+        @*<div align="left" style="padding-left: 150px">
+            <input id="doForcast" type="button" value="בצע חיזוי">
+        </div>*@
+        <div id="productForcastResults">
+        </div>
+    </div>
+    <div id="tabs-3">
+        <table width="50%" id="ItemsTitle2" align="center">
+            <tbody>
+                <tr class="spaceUnder">
+                    <th width="55%">
+                        <div>
+                            <select name="selectMe2" id="selectMe2" class="chzn-select" style="width: 275px;" tabindex="7" data-placeholder="Product ID">
+                                <option value="choose">בחר מועד</option>
+                            </select>
+                            <script type="text/javascript"> $("#selectMe2").select2();/* $(".chzn-select-deselect").chosen({ allow_single_deselect: true });*/ </script>
+                        </div>
+                    </th>
+                    <th width="45%">מועד</th>
+                </tr>
+            </tbody>
+        </table>
+        @*<div align="left" style="padding-left: 150px">
+            <input id="submitMoedForcast" type="button" value="בצע חיזוי">
+        </div>*@
+        <div id="moedResults">
+        </div>
+    </div>
+</div>

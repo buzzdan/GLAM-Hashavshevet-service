@@ -1,0 +1,5367 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Items>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>מדבקות דש ברוכים הבאים</ItemName>
+
+    <ItemID>1000</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>12.00</ItemPrice>
+
+    <ItemName>הזמנות לגן</ItemName>
+
+    <ItemID>1001</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>12.00</ItemPrice>
+
+    <ItemName>תליון מתחילים בחיוך</ItemName>
+
+    <ItemID>1003</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>12.00</ItemPrice>
+
+    <ItemName>תליון אפרוח</ItemName>
+
+    <ItemID>1004</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות סמיילי להתחיל עם חיוך</ItemName>
+
+    <ItemID>1005</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>מדבקות שלום כיתה א 7 ס"מ</ItemName>
+
+    <ItemID>1006</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>10.00</ItemPrice>
+
+    <ItemName>סימניה צבעונית לספר</ItemName>
+
+    <ItemID>1007</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>גזירות ילד קטן</ItemName>
+
+    <ItemID>1008</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>39.00</ItemPrice>
+
+    <ItemName>ערכת דיקלומים</ItemName>
+
+    <ItemID>1009</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>כרזה מפל שלום כיתה א</ItemName>
+
+    <ItemID>1010</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>14.00</ItemPrice>
+
+    <ItemName>חוברת צביעה בריאת העולם</ItemName>
+
+    <ItemID>1011</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>11.00</ItemPrice>
+
+    <ItemName>כרטיסים לספריה</ItemName>
+
+    <ItemID>1012</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פרחים ללוח מי בא לגן</ItemName>
+
+    <ItemID>1013</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>14.00</ItemPrice>
+
+    <ItemName>חוברת ילד קטן הלך לגן</ItemName>
+
+    <ItemID>1014</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות א-ב אות פותחת 5 ס"מ</ItemName>
+
+    <ItemID>1016</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>מדבקות חודשי השנה גדולות</ItemName>
+
+    <ItemID>1017</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פרח סוכריה</ItemName>
+
+    <ItemID>1018</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>25.00</ItemPrice>
+
+    <ItemName>כיס שקוף לתאים</ItemName>
+
+    <ItemID>1019</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>12.00</ItemPrice>
+
+    <ItemName>מדבקות תאים לצעירים</ItemName>
+
+    <ItemID>1020</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>12.00</ItemPrice>
+
+    <ItemName>מדבקות תאים לבוגרים</ItemName>
+
+    <ItemID>1021</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>12.00</ItemPrice>
+
+    <ItemName>תליון גמדון</ItemName>
+
+    <ItemID>1022</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>21.00</ItemPrice>
+
+    <ItemName>עבודת יצירה ילד קטן</ItemName>
+
+    <ItemID>1023</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>12.00</ItemPrice>
+
+    <ItemName>תליון כל הכבוד</ItemName>
+
+    <ItemID>1024</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>12.00</ItemPrice>
+
+    <ItemName>תליון ישר כוח</ItemName>
+
+    <ItemID>1025</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>כרזה ברוכים הבאים מפל</ItemName>
+
+    <ItemID>1026</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>פלקט להתחיל עם חיוך</ItemName>
+
+    <ItemID>1027</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>22.00</ItemPrice>
+
+    <ItemName>כרזה מפל מתחילים בחיוך</ItemName>
+
+    <ItemID>1028</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>באלו הידיים- תיק עבודות</ItemName>
+
+    <ItemID>1030</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>11.00</ItemPrice>
+
+    <ItemName>דפים מעוצבים</ItemName>
+
+    <ItemID>1031</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>22.00</ItemPrice>
+
+    <ItemName>כרזה שנה חדשה מתחילה בחיוך</ItemName>
+
+    <ItemID>1032</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>סימניה לספר לצביעה</ItemName>
+
+    <ItemID>1033</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת סופרים ומשוררים</ItemName>
+
+    <ItemID>1124</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת כלי משכן</ItemName>
+
+    <ItemID>1130</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>םלקט פירמידת המזון</ItemName>
+
+    <ItemID>1228</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>קישוטי קיר סול מגן דוד</ItemName>
+
+    <ItemID>1326</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>קישוטי קיר סול יונה</ItemName>
+
+    <ItemID>1336</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>12.00</ItemPrice>
+
+    <ItemName>תליון מי תורן</ItemName>
+
+    <ItemID>1349</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>29.00</ItemPrice>
+
+    <ItemName>סיפור המחשה אני מטייל+ דיסק</ItemName>
+
+    <ItemID>1382</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>29.00</ItemPrice>
+
+    <ItemName>סיפור המחשה יום הולדת+ דיסק</ItemName>
+
+    <ItemID>1383</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>29.00</ItemPrice>
+
+    <ItemName>סיפור המחשה הדולפין ודג החרב+ דיסק</ItemName>
+
+    <ItemID>1386</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>סיפור המחשה גזור ילד קטן</ItemName>
+
+    <ItemID>1430</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>22.00</ItemPrice>
+
+    <ItemName>גב לכיסא אמא שבת</ItemName>
+
+    <ItemID>1436</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>14.00</ItemPrice>
+
+    <ItemName>חוברת ליאור בכה</ItemName>
+
+    <ItemID>1448</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>דפים מעוצבים- נעים להודיע</ItemName>
+
+    <ItemID>1454</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>דפי קשר לתיק מפל</ItemName>
+
+    <ItemID>1458</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>שלום כיתה</ItemName>
+
+    <ItemID>1500</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות חג שמח</ItemName>
+
+    <ItemID>1609</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות נשיקות 1.6</ItemName>
+
+    <ItemID>1633</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט שנה טובה</ItemName>
+
+    <ItemID>2000</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט סמלי ראש השנה</ItemName>
+
+    <ItemID>2001</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת ראש השנה ויום כיפור</ItemName>
+
+    <ItemID>2002</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת דבש</ItemName>
+
+    <ItemID>2003</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות סמלי ראש השנה</ItemName>
+
+    <ItemID>2004</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>מדבקות דש לראש השנה</ItemName>
+
+    <ItemID>2005</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>12.00</ItemPrice>
+
+    <ItemName>חוברת טיפים ראש השנה</ItemName>
+
+    <ItemID>2006</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>אגרת ראש השנה תפוח</ItemName>
+
+    <ItemID>2007</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>11.00</ItemPrice>
+
+    <ItemName>דפים מעוצבים ראש השנה</ItemName>
+
+    <ItemID>2008</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>22.00</ItemPrice>
+
+    <ItemName>כרזה חנוכה שמח זוהרת</ItemName>
+
+    <ItemID>2009</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>17.00</ItemPrice>
+
+    <ItemName>יצירה קופסא לדבש</ItemName>
+
+    <ItemID>2010</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>10.00</ItemPrice>
+
+    <ItemName>סט שבלונות ראש השנה</ItemName>
+
+    <ItemID>2012</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>סט שקפים ראש השנה</ItemName>
+
+    <ItemID>2013</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>17.00</ItemPrice>
+
+    <ItemName>אגרת צביעה מעטפה</ItemName>
+
+    <ItemID>2014</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>5.00</ItemPrice>
+
+    <ItemName>גזירות סמלי חג הולוגרמי</ItemName>
+
+    <ItemID>2015</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>אגרת שנה טובה רימון</ItemName>
+
+    <ItemID>2016</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>גזירות סמלי ראש השנה קרטון</ItemName>
+
+    <ItemID>2017</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>גזירות סול ראש השנה</ItemName>
+
+    <ItemID>2018</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>חותמות ספוג ראש השנה</ItemName>
+
+    <ItemID>2019</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>גזירות דבש</ItemName>
+
+    <ItemID>2020</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>פלקט יום כיפור</ItemName>
+
+    <ItemID>2021</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>21.00</ItemPrice>
+
+    <ItemName>יצירת צלחת ראש השנה עם גזירות</ItemName>
+
+    <ItemID>2022</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>עבודת יצירה פרח-דבש</ItemName>
+
+    <ItemID>2023</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>סט סמלי מפל גדולים לחגי תשרי</ItemName>
+
+    <ItemID>2024</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות רימנוים 3.5 סמ</ItemName>
+
+    <ItemID>2025</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות תפוחים 3.5 סמ</ItemName>
+
+    <ItemID>2026</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>15.00</ItemPrice>
+
+    <ItemName>ע. יצירה מי מתוק יותר מדבש</ItemName>
+
+    <ItemID>2028</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>14.00</ItemPrice>
+
+    <ItemName>מובייל ראש השנה מפל</ItemName>
+
+    <ItemID>2029</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>22.00</ItemPrice>
+
+    <ItemName>כרזת שנה טובה</ItemName>
+
+    <ItemID>2030</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>18.00</ItemPrice>
+
+    <ItemName>מובייל ראש השנה שקף</ItemName>
+
+    <ItemID>2031</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>14.00</ItemPrice>
+
+    <ItemName>סמלי ראש השנה לצביעה וקישוט</ItemName>
+
+    <ItemID>2032</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>14.00</ItemPrice>
+
+    <ItemName>סמלי יום כיפור לצביעה וקישוט</ItemName>
+
+    <ItemID>2033</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>גזירות סול ראש השנה נוצץ</ItemName>
+
+    <ItemID>2035</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות שנה טובה 3.5 סמ</ItemName>
+
+    <ItemID>2037</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט סוכות</ItemName>
+
+    <ItemID>2100</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט סמלי סוכות</ItemName>
+
+    <ItemID>2101</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת סוכות</ItemName>
+
+    <ItemID>2102</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>גזירות סוכות מקרטון</ItemName>
+
+    <ItemID>2104</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות סוכות</ItemName>
+
+    <ItemID>2105</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>10.00</ItemPrice>
+
+    <ItemName>שבלונות 4 המינים</ItemName>
+
+    <ItemID>2106</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>6.00</ItemPrice>
+
+    <ItemName>פסי קישוט סוכות</ItemName>
+
+    <ItemID>2107</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>יצירה סוכה לבניה</ItemName>
+
+    <ItemID>2108</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>12.00</ItemPrice>
+
+    <ItemName>טיפים סוכות</ItemName>
+
+    <ItemID>2109</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>14.00</ItemPrice>
+
+    <ItemName>דגלי שמחת תורה צבעוני</ItemName>
+
+    <ItemID>2111</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>גזירות סול ארבעת המינים</ItemName>
+
+    <ItemID>2112</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>12.00</ItemPrice>
+
+    <ItemName>דגלי שמחת תורה  לצביעה</ItemName>
+
+    <ItemID>2113</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>18.00</ItemPrice>
+
+    <ItemName>מובייל שקף סוכות</ItemName>
+
+    <ItemID>2114</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>22.00</ItemPrice>
+
+    <ItemName>כרזה סוכות</ItemName>
+
+    <ItemID>2115</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט גינה שלי</ItemName>
+
+    <ItemID>2200</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת גינה</ItemName>
+
+    <ItemID>2201</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת פירות</ItemName>
+
+    <ItemID>2202</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת ירקות</ItemName>
+
+    <ItemID>2203</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות פירות</ItemName>
+
+    <ItemID>2204</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות ירקות</ItemName>
+
+    <ItemID>2205</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות גינה</ItemName>
+
+    <ItemID>2206</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>גזירות סול פירות</ItemName>
+
+    <ItemID>2207</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>גזירות ירקות</ItemName>
+
+    <ItemID>2208</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>גזירות כלי גינה</ItemName>
+
+    <ItemID>2209</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>21.00</ItemPrice>
+
+    <ItemName>עבודת יצירה גינה שלי</ItemName>
+
+    <ItemID>2210</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>דמויות ילדים וגינה ממפל גזור</ItemName>
+
+    <ItemID>2213</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>גזירות עץ וחלקיו ממפל</ItemName>
+
+    <ItemID>2214</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>21.00</ItemPrice>
+
+    <ItemName>יצירה סמלי טו בשבט עם גזירות</ItemName>
+
+    <ItemID>2215</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>14.00</ItemPrice>
+
+    <ItemName>עבודת יצירה שתיל צומח</ItemName>
+
+    <ItemID>2216</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>פרחים סול ורוד לבן 5 סמ</ItemName>
+
+    <ItemID>2217</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>6.00</ItemPrice>
+
+    <ItemName>פרחים סול ורוד לבן 3 סמ</ItemName>
+
+    <ItemID>2218</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>21.00</ItemPrice>
+
+    <ItemName>עבודת יצירה התפתחות הצמח</ItemName>
+
+    <ItemID>2219</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>14.00</ItemPrice>
+
+    <ItemName>יצירה גינה לצביעה וקישוט</ItemName>
+
+    <ItemID>2220</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>21.00</ItemPrice>
+
+    <ItemName>יצירה אליעזר והגזר</ItemName>
+
+    <ItemID>2221</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>יצירה משולבת ילדים שותלים</ItemName>
+
+    <ItemID>2222</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>21.00</ItemPrice>
+
+    <ItemName>יצירה אני שותל</ItemName>
+
+    <ItemID>2223</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>כרזה מפל טו בשבט</ItemName>
+
+    <ItemID>2224</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>22.00</ItemPrice>
+
+    <ItemName>המחשה מה בפרדס- גזירות גדולות</ItemName>
+
+    <ItemID>2225</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>21.00</ItemPrice>
+
+    <ItemName>סלסלה טו בשבט להרכבה</ItemName>
+
+    <ItemID>2226</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>22.00</ItemPrice>
+
+    <ItemName>גזירות ירקות גדולים</ItemName>
+
+    <ItemID>2227</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>22.00</ItemPrice>
+
+    <ItemName>גזירות פירות גדולים</ItemName>
+
+    <ItemID>2228</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>גזירות סול ירקות</ItemName>
+
+    <ItemID>2229</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>עבודת יצירה גינה עם מדבקות</ItemName>
+
+    <ItemID>2230</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת כותנה</ItemName>
+
+    <ItemID>2300</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת סתיו</ItemName>
+
+    <ItemID>2301</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת פרחי סתיו חורף</ItemName>
+
+    <ItemID>2302</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>כרזה סתיו ממפל</ItemName>
+
+    <ItemID>2303</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט מבשרי הסתיו</ItemName>
+
+    <ItemID>2304</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט ברלה</ItemName>
+
+    <ItemID>2305</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות סמלי הסתיו</ItemName>
+
+    <ItemID>2306</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>גזירות סמלי הסתיו</ItemName>
+
+    <ItemID>2307</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>6.00</ItemPrice>
+
+    <ItemName>פסי קישוט סתיו</ItemName>
+
+    <ItemID>2308</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>12.00</ItemPrice>
+
+    <ItemName>חוברת טיפים סתיו וחורף</ItemName>
+
+    <ItemID>2309</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>14.00</ItemPrice>
+
+    <ItemName>יצירה סתיו לצביעה וקישוט</ItemName>
+
+    <ItemID>2310</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>11.00</ItemPrice>
+
+    <ItemName>יצירה סתיו לצביעה</ItemName>
+
+    <ItemID>2313</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>גזירות סול עלים</ItemName>
+
+    <ItemID>2315</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות חילזון</ItemName>
+
+    <ItemID>2316</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות פטריות</ItemName>
+
+    <ItemID>2317</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות עלים</ItemName>
+
+    <ItemID>2318</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות ציפורים</ItemName>
+
+    <ItemID>2319</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>17.00</ItemPrice>
+
+    <ItemName>יצירה החילזון וביתו</ItemName>
+
+    <ItemID>2320</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>פלקט בינוני נחליאלי</ItemName>
+
+    <ItemID>2321</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>פלקט בינוני חילזון</ItemName>
+
+    <ItemID>2322</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>סט שבלונות סתיו</ItemName>
+
+    <ItemID>2323</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>גזירות סול סתיו וחורף</ItemName>
+
+    <ItemID>2324</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>גזירות עלים קרטון</ItemName>
+
+    <ItemID>2325</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>14.00</ItemPrice>
+
+    <ItemName>מובייל מפל סתיו</ItemName>
+
+    <ItemID>2326</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>17.00</ItemPrice>
+
+    <ItemName>עבודת יצירה נחליאלי</ItemName>
+
+    <ItemID>2327</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>36.00</ItemPrice>
+
+    <ItemName>המחשה נחליאלי+ דיסק</ItemName>
+
+    <ItemID>2328</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת חנוכה</ItemName>
+
+    <ItemID>2400</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת מקורות האור</ItemName>
+
+    <ItemID>2401</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת הזית</ItemName>
+
+    <ItemID>2402</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט חנוכה</ItemName>
+
+    <ItemID>2403</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט סמלי חנוכה</ItemName>
+
+    <ItemID>2404</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט חנה זלדה</ItemName>
+
+    <ItemID>2405</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט גברת קרש</ItemName>
+
+    <ItemID>2406</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט חנוכיה פעיל</ItemName>
+
+    <ItemID>2407</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>הזמנה- כד</ItemName>
+
+    <ItemID>2408</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>הזמנה- נר</ItemName>
+
+    <ItemID>2409</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>12.00</ItemPrice>
+
+    <ItemName>חוברת טיפים חנוכה</ItemName>
+
+    <ItemID>2410</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>גזירות חנוכה מודפסות</ItemName>
+
+    <ItemID>2411</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>גזירות חנוכה מקרטון כסף/ זהב</ItemName>
+
+    <ItemID>2412</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>גזירות סמלי חנוכה סול</ItemName>
+
+    <ItemID>2413</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>14.00</ItemPrice>
+
+    <ItemName>קישוטי קיר זוהר לחנוכה</ItemName>
+
+    <ItemID>2414</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>מדבקות דש חנוכה</ItemName>
+
+    <ItemID>2415</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות סמלי חנוכה 2.5</ItemName>
+
+    <ItemID>2416</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>21.00</ItemPrice>
+
+    <ItemName>יצירה חנוכה+ גזירות</ItemName>
+
+    <ItemID>2417</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>21.00</ItemPrice>
+
+    <ItemName>עבודת יצירה חנה זלדה</ItemName>
+
+    <ItemID>2418</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>21.00</ItemPrice>
+
+    <ItemName>עבודת יצירה גברת קרש</ItemName>
+
+    <ItemID>2419</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>עבודת יצירה חנוכה שמחעם מסגרת</ItemName>
+
+    <ItemID>2420</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>כרזת חנוכה תלת מימד</ItemName>
+
+    <ItemID>2421</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>כתר חנוכה</ItemName>
+
+    <ItemID>2422</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>נרות סול חנוכה</ItemName>
+
+    <ItemID>2423</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>יצירה עץ זית עם מדבקות</ItemName>
+
+    <ItemID>2424</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>11.00</ItemPrice>
+
+    <ItemName>דפים מעוצבים חנוכה</ItemName>
+
+    <ItemID>2425</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>גזירות סול סמלי חנוכה גדול</ItemName>
+
+    <ItemID>2426</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>10.00</ItemPrice>
+
+    <ItemName>שבלונות חנוכה</ItemName>
+
+    <ItemID>2427</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>21.00</ItemPrice>
+
+    <ItemName>סביבון שי לחג</ItemName>
+
+    <ItemID>2428</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>6.00</ItemPrice>
+
+    <ItemName>שטרות כסף</ItemName>
+
+    <ItemID>2429</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>שקפים חנוכה</ItemName>
+
+    <ItemID>2430</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט הלביבה שהתגלגלה</ItemName>
+
+    <ItemID>2431</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>הזמנות זוהרות חנוכה</ItemName>
+
+    <ItemID>2433</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>גזירות סמלי חנוכה זוהרות</ItemName>
+
+    <ItemID>2434</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>מדבקות דש חנוכה זוהרות</ItemName>
+
+    <ItemID>2435</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות סמלי חנוכה זוהר 3.5</ItemName>
+
+    <ItemID>2436</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>21.00</ItemPrice>
+
+    <ItemName>עבודת יצירה עץ זית עם גזירות</ItemName>
+
+    <ItemID>2437</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>מטבעות כסף</ItemName>
+
+    <ItemID>2438</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>18.00</ItemPrice>
+
+    <ItemName>מובייל חנוכה</ItemName>
+
+    <ItemID>2439</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>חותמות ספוג חנוכה</ItemName>
+
+    <ItemID>2440</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>כרזה מפל חנוכה</ItemName>
+
+    <ItemID>2441</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>14.00</ItemPrice>
+
+    <ItemName>יצירה חנוכה לצביעה וקישוט</ItemName>
+
+    <ItemID>2442</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>נרות סול נצנץ בינוני</ItemName>
+
+    <ItemID>2443</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>ברכות חנוכה עם תמונת הילד</ItemName>
+
+    <ItemID>2444</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>נרות סול נצנץ גדול</ItemName>
+
+    <ItemID>2445</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>סמלי חנוכה סול נצנץ בינוני</ItemName>
+
+    <ItemID>2446</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>סמלי חנוכה סול נצנץ גדול</ItemName>
+
+    <ItemID>2447</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>סמלי חנוכה 4 תמונות</ItemName>
+
+    <ItemID>2448</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>עבודת יצירה חנוכיה עם מדבקות</ItemName>
+
+    <ItemID>2449</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>14.00</ItemPrice>
+
+    <ItemName>חוברת חנה זלדה</ItemName>
+
+    <ItemID>2451</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>14.00</ItemPrice>
+
+    <ItemName>חוברת גברת קרש</ItemName>
+
+    <ItemID>2452</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>נרות סול חנוכה בינוני</ItemName>
+
+    <ItemID>2453</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות שלהבת</ItemName>
+
+    <ItemID>2455</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>10.00</ItemPrice>
+
+    <ItemName>פסי קישוט קרטון זוהר</ItemName>
+
+    <ItemID>2457</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>יצירה סביבון לצביעה והרכבה</ItemName>
+
+    <ItemID>2458</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>12.00</ItemPrice>
+
+    <ItemName>סמלי חנוכה זוהרים באולטרה</ItemName>
+
+    <ItemID>2459</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>יצירה חנוכה עם מדבקות</ItemName>
+
+    <ItemID>2460</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>6.00</ItemPrice>
+
+    <ItemName>פסי קישוט זוהרים באולטרה חנוכה</ItemName>
+
+    <ItemID>2461</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת חורף</ItemName>
+
+    <ItemID>2500</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט חורף</ItemName>
+
+    <ItemID>2501</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט סמלי חורף</ItemName>
+
+    <ItemID>2502</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט שלולי</ItemName>
+
+    <ItemID>2503</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט מגפיים</ItemName>
+
+    <ItemID>2504</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט המטריה הגדולה של אבא</ItemName>
+
+    <ItemID>2505</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט משיב הרוח מוריד הגשם</ItemName>
+
+    <ItemID>2506</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט הענן של ערן</ItemName>
+
+    <ItemID>2507</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות סמלי חורף</ItemName>
+
+    <ItemID>2508</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>גזירות סמלי חורף</ItemName>
+
+    <ItemID>2509</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>גזירות המטריה הגדולה של אבא</ItemName>
+
+    <ItemID>2510</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>גזירות סול עננים וטיפות גשם</ItemName>
+
+    <ItemID>2511</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>21.00</ItemPrice>
+
+    <ItemName>עבודת יצירה חורף</ItemName>
+
+    <ItemID>2512</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>6.00</ItemPrice>
+
+    <ItemName>פסי קישוט חורף</ItemName>
+
+    <ItemID>2513</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>12.00</ItemPrice>
+
+    <ItemName>עץ יצירה המטריה הגדולה תלת מימד</ItemName>
+
+    <ItemID>2514</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות טיפות גשם</ItemName>
+
+    <ItemID>2515</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט נרקיס מלך הביצה</ItemName>
+
+    <ItemID>2516</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת מראות השמים</ItemName>
+
+    <ItemID>2517</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>ערכת מקורות המים</ItemName>
+
+    <ItemID>2518</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת שימושי המים</ItemName>
+
+    <ItemID>2519</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>21.00</ItemPrice>
+
+    <ItemName>ע. יצירה המטריה הגדולה עם גזירות</ItemName>
+
+    <ItemID>2520</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>11.00</ItemPrice>
+
+    <ItemName>דפים מעוצבים חורף</ItemName>
+
+    <ItemID>2521</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>פלקט מחזור המים בטבע</ItemName>
+
+    <ItemID>2522</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>פלקט חבל על כל טיפה</ItemName>
+
+    <ItemID>2523</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>10.00</ItemPrice>
+
+    <ItemName>סט שבלונות חורף</ItemName>
+
+    <ItemID>2524</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>22.00</ItemPrice>
+
+    <ItemName>דמויות ילדים בחורף מפל גזור</ItemName>
+
+    <ItemID>2525</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>כרזה מפל חורף</ItemName>
+
+    <ItemID>2527</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>14.00</ItemPrice>
+
+    <ItemName>יצירה חורף לצביעה וקישוט</ItemName>
+
+    <ItemID>2528</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>14.00</ItemPrice>
+
+    <ItemName>מובייל חורף מפל</ItemName>
+
+    <ItemID>2529</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>יצירה ילדה בגשם עם מדבקות</ItemName>
+
+    <ItemID>2530</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>יצירה המטריה של אבא עם מדבקות</ItemName>
+
+    <ItemID>2531</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות טיפות גשם 1.6</ItemName>
+
+    <ItemID>2532</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת שירי ביאליק</ItemName>
+
+    <ItemID>2600</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>14.00</ItemPrice>
+
+    <ItemName>חוברת צביעה שירי ביאליק</ItemName>
+
+    <ItemID>2601</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>3.00</ItemPrice>
+
+    <ItemName>תמונה ביאליק</ItemName>
+
+    <ItemID>2602</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>14.00</ItemPrice>
+
+    <ItemName>רוץ בין סוסים/קן לציפור</ItemName>
+
+    <ItemID>2603</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת טו בשבט</ItemName>
+
+    <ItemID>2700</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת עצים</ItemName>
+
+    <ItemID>2701</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת מחזור חיי הצמח</ItemName>
+
+    <ItemID>2702</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת החקלאי</ItemName>
+
+    <ItemID>2703</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת פירות הדר</ItemName>
+
+    <ItemID>2704</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>מדבקות דש טו בשבט</ItemName>
+
+    <ItemID>2705</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>גזירות מודפסות עצים</ItemName>
+
+    <ItemID>2706</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>גזירות מודפסות טו בשבט</ItemName>
+
+    <ItemID>2707</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>יצירה משולבת טו בשבט</ItemName>
+
+    <ItemID>2708</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>ע. יצירה פרי הדר עם מדבקות</ItemName>
+
+    <ItemID>2710</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>21.00</ItemPrice>
+
+    <ItemName>עבודת יצירה שישה בשקיק</ItemName>
+
+    <ItemID>2711</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>21.00</ItemPrice>
+
+    <ItemName>עבודת יצירה האורן הבודד</ItemName>
+
+    <ItemID>2712</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>יצירה עץ תלת מימד</ItemName>
+
+    <ItemID>2713</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>12.00</ItemPrice>
+
+    <ItemName>חוברת טיפים טו בשבט</ItemName>
+
+    <ItemID>2714</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות שקדיה</ItemName>
+
+    <ItemID>2716</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>גזירות סול עץ השקדייה</ItemName>
+
+    <ItemID>2717</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות פרי הדר 2.5</ItemName>
+
+    <ItemID>2718</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>21.00</ItemPrice>
+
+    <ItemName>עבודת יצירה התפתחות הצמח</ItemName>
+
+    <ItemID>2719</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>גזירות סול פרחים ועלים</ItemName>
+
+    <ItemID>2720</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט טו בשבט</ItemName>
+
+    <ItemID>2722</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט אוריינות טו בשבט</ItemName>
+
+    <ItemID>2723</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט פרי הדר</ItemName>
+
+    <ItemID>2724</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט זרע של צנונית</ItemName>
+
+    <ItemID>2725</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט שישה בשקיק</ItemName>
+
+    <ItemID>2726</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט האורן הבודד</ItemName>
+
+    <ItemID>2727</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>פלקט בינוני טו בשבט</ItemName>
+
+    <ItemID>2728</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות פירות יבשים</ItemName>
+
+    <ItemID>2729</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט עץ ומוצריו</ItemName>
+
+    <ItemID>2730</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>גזירות שישה בשקיק</ItemName>
+
+    <ItemID>2731</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>גזירות פרי הדר מודפס</ItemName>
+
+    <ItemID>2732</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>כתרים טו בשבט</ItemName>
+
+    <ItemID>2733</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>11.00</ItemPrice>
+
+    <ItemName>דפים מעוציבים טו בשבט</ItemName>
+
+    <ItemID>2734</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>יצירה השקדיה פורחת עם מדבקות</ItemName>
+
+    <ItemID>2735</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>10.00</ItemPrice>
+
+    <ItemName>פתגמים טו בשבט</ItemName>
+
+    <ItemID>2737</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>14.00</ItemPrice>
+
+    <ItemName>חוברת שישה בשקיק</ItemName>
+
+    <ItemID>2738</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>7.00</ItemPrice>
+
+    <ItemName>פרח סול נצנץ 3 סמ</ItemName>
+
+    <ItemID>2739</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>פרח סול נצנץ 5 סמ</ItemName>
+
+    <ItemID>2740</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>חותמות ספוג עלים ופרחים</ItemName>
+
+    <ItemID>2741</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>10.00</ItemPrice>
+
+    <ItemName>עץ שקדיה סול נצנץ עם פרחים</ItemName>
+
+    <ItemID>2742</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>10.00</ItemPrice>
+
+    <ItemName>סול עלים ופרחים נצנץ</ItemName>
+
+    <ItemID>2743</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>18.00</ItemPrice>
+
+    <ItemName>מובייל טו בשבט</ItemName>
+
+    <ItemID>2744</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>14.00</ItemPrice>
+
+    <ItemName>סמלי טו בשבט לצביעה וקישוט</ItemName>
+
+    <ItemID>2745</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>שקף עץ שקדייה</ItemName>
+
+    <ItemID>2746</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>12.00</ItemPrice>
+
+    <ItemName>תליון טו בשבט</ItemName>
+
+    <ItemID>2748</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>10.00</ItemPrice>
+
+    <ItemName>שבלונה טו בשבט</ItemName>
+
+    <ItemID>2749</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות פרי הדר 3.5</ItemName>
+
+    <ItemID>2750</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>17.00</ItemPrice>
+
+    <ItemName>כתר טו בשבט לצביעה</ItemName>
+
+    <ItemID>2752</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>36.00</ItemPrice>
+
+    <ItemName>סיפור שקדיה+ דיסק</ItemName>
+
+    <ItemID>2753</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>יצירה אנו מכינים מיץ עם מדבקות</ItemName>
+
+    <ItemID>2754</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות שקדיה 1.7</ItemName>
+
+    <ItemID>2755</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>עבודת יצירה סלסלה צביעה והרכבה</ItemName>
+
+    <ItemID>2756</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>3.00</ItemPrice>
+
+    <ItemName>עלים מסול דביק</ItemName>
+
+    <ItemID>2757</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>ע. יצירה סלסלת פירות עם מדבקות</ItemName>
+
+    <ItemID>2758</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת משפחה</ItemName>
+
+    <ItemID>2800</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>חמסה עם מסגרת קרטון ביצוע</ItemName>
+
+    <ItemID>2801</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>6.00</ItemPrice>
+
+    <ItemName>עבודה זר למשפחתי היקרה</ItemName>
+
+    <ItemID>2802</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>עבודה אני וביתי</ItemName>
+
+    <ItemID>2804</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>יצירה בית ומשפחה משולב</ItemName>
+
+    <ItemID>2805</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט בית ומשפחה</ItemName>
+
+    <ItemID>2806</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>פלקט בינוני קשר משפחתי</ItemName>
+
+    <ItemID>2807</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>פלקט בינוני יום המפשחה</ItemName>
+
+    <ItemID>2808</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>12.00</ItemPrice>
+
+    <ItemName>חוברת טיפים יום המשפחה</ItemName>
+
+    <ItemID>2809</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>22.00</ItemPrice>
+
+    <ItemName>דמויות משפחה גדולות</ItemName>
+
+    <ItemID>2810</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>6.00</ItemPrice>
+
+    <ItemName>דמויות משפחה קומיקס</ItemName>
+
+    <ItemID>2811</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>דמויות סול משפחה</ItemName>
+
+    <ItemID>2812</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>חותמות ספוג משפחה</ItemName>
+
+    <ItemID>2813</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>מדבקות דש ליום המשפחה</ItemName>
+
+    <ItemID>2814</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>גזירות סול לבבות</ItemName>
+
+    <ItemID>2815</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>חותמות ספוג לבבות</ItemName>
+
+    <ItemID>2816</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>גזירות סול חמסה</ItemName>
+
+    <ItemID>2817</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>6.00</ItemPrice>
+
+    <ItemName>דמויות מהעולם</ItemName>
+
+    <ItemID>2818</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>11.00</ItemPrice>
+
+    <ItemName>דפים מעוצבים ליום המשפחה</ItemName>
+
+    <ItemID>2819</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>21.00</ItemPrice>
+
+    <ItemName>עבודה בית ומשפחה</ItemName>
+
+    <ItemID>2820</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>18.00</ItemPrice>
+
+    <ItemName>מובייל ברכות שקף</ItemName>
+
+    <ItemID>2821</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>לב עם מסגרת מקרטון ביצוע</ItemName>
+
+    <ItemID>2822</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>איגרת לב למשפחה</ItemName>
+
+    <ItemID>2823</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>אגרת חמסה ברכת הבית</ItemName>
+
+    <ItemID>2824</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>עבודת יצירה בית להרכבה</ItemName>
+
+    <ItemID>2825</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>21.00</ItemPrice>
+
+    <ItemName>יצירה מעטפה צבעונית</ItemName>
+
+    <ItemID>2826</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>21.00</ItemPrice>
+
+    <ItemName>סלסלת פרחים למשפחה</ItemName>
+
+    <ItemID>2828</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>17.00</ItemPrice>
+
+    <ItemName>יצירה מעטפה לצביעה</ItemName>
+
+    <ItemID>2829</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>גזירות משפחה מקרטון</ItemName>
+
+    <ItemID>2830</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>10.00</ItemPrice>
+
+    <ItemName>סט שבלונות בית ומשפחה</ItemName>
+
+    <ItemID>2832</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>לבבות סול נוצץ</ItemName>
+
+    <ItemID>2833</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות לב 1.6</ItemName>
+
+    <ItemID>2834</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות לב 2.5</ItemName>
+
+    <ItemID>2835</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>ברכת הבית מקרטון</ItemName>
+
+    <ItemID>2837</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>22.00</ItemPrice>
+
+    <ItemName>כרזה ליום המשפחה</ItemName>
+
+    <ItemID>2838</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>14.00</ItemPrice>
+
+    <ItemName>סמלי משפחה לצביעה וקישוט</ItemName>
+
+    <ItemID>2839</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>12.00</ItemPrice>
+
+    <ItemName>אגרת ברכה נפתחת למשפחה</ItemName>
+
+    <ItemID>2840</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>קופסאת מתנה קטנה</ItemName>
+
+    <ItemID>2842</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכה פורים</ItemName>
+
+    <ItemID>2900</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת תחפושות בטבע</ItemName>
+
+    <ItemID>2901</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>21.00</ItemPrice>
+
+    <ItemName>משלוח מנות תיק</ItemName>
+
+    <ItemID>2902</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>18.00</ItemPrice>
+
+    <ItemName>מובייל שקף לפורים</ItemName>
+
+    <ItemID>2903</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>יצירה רעשן</ItemName>
+
+    <ItemID>2904</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>כרזה מפל חגיגית פורים</ItemName>
+
+    <ItemID>2905</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>זוג ליצני מפל להרכבה</ItemName>
+
+    <ItemID>2906</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>21.00</ItemPrice>
+
+    <ItemName>יצירה פורים שמח עם גזירות</ItemName>
+
+    <ItemID>2908</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>12.00</ItemPrice>
+
+    <ItemName>מגילת אסתר לצביעה</ItemName>
+
+    <ItemID>2909</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>מגילת אסתר צבעונית</ItemName>
+
+    <ItemID>2910</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>14.00</ItemPrice>
+
+    <ItemName>סט יצירה מסכות</ItemName>
+
+    <ItemID>2911</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>21.00</ItemPrice>
+
+    <ItemName>עבודת יצירה מעשה בכובעים</ItemName>
+
+    <ItemID>2912</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>17.00</ItemPrice>
+
+    <ItemName>עבודת יצירה הבעות ליצן</ItemName>
+
+    <ItemID>2913</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>גזירות סמלי פורים</ItemName>
+
+    <ItemID>2914</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>גזירות דמויות המגילה</ItemName>
+
+    <ItemID>2916</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>11.00</ItemPrice>
+
+    <ItemName>דפים מעוצבים פורים</ItemName>
+
+    <ItemID>2917</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>17.00</ItemPrice>
+
+    <ItemName>יצירה כובע ליצן להרכבה</ItemName>
+
+    <ItemID>2918</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>משלוח מנות אוזן המן</ItemName>
+
+    <ItemID>2919</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות סמלי פורים</ItemName>
+
+    <ItemID>2920</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>שקפים לצביעה פורים</ItemName>
+
+    <ItemID>2921</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות ליצנים</ItemName>
+
+    <ItemID>2922</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות פורים שמח</ItemName>
+
+    <ItemID>2923</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>10.00</ItemPrice>
+
+    <ItemName>שבלונות פורים</ItemName>
+
+    <ItemID>2924</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>12.00</ItemPrice>
+
+    <ItemName>חוברת טיפים פורים</ItemName>
+
+    <ItemID>2925</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>פלקט פורים שמח בינוני</ItemName>
+
+    <ItemID>2928</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט סמלי פורים</ItemName>
+
+    <ItemID>2930</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט דמויות המגילה</ItemName>
+
+    <ItemID>2931</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט מעשה באוזן המן</ItemName>
+
+    <ItemID>2932</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט מעשה בכובעים</ItemName>
+
+    <ItemID>2933</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט הביצה שהתחפשה</ItemName>
+
+    <ItemID>2934</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>גזירות סול סמלי פורים</ItemName>
+
+    <ItemID>2935</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>חותמות ספוג סמלי פורים</ItemName>
+
+    <ItemID>2936</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>14.00</ItemPrice>
+
+    <ItemName>יצירה קופת צדקה לבניה</ItemName>
+
+    <ItemID>2937</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>6.00</ItemPrice>
+
+    <ItemName>סט 5 כותרות לפורים</ItemName>
+
+    <ItemID>2938</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>גזירות מעשה באוזן המן</ItemName>
+
+    <ItemID>2939</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>12.00</ItemPrice>
+
+    <ItemName>עבודת יצירה ליצן תלת מימד</ItemName>
+
+    <ItemID>2940</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>14.00</ItemPrice>
+
+    <ItemName>יצירה ליצן להרכבה</ItemName>
+
+    <ItemID>2942</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>14.00</ItemPrice>
+
+    <ItemName>ליצנים לצביעה וקישוט</ItemName>
+
+    <ItemID>2943</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט פורים שמח זוהר</ItemName>
+
+    <ItemID>2944</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>14.00</ItemPrice>
+
+    <ItemName>ערכת קישוטי קיר זוהר לפורים</ItemName>
+
+    <ItemID>2945</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>דמויות המגילה גדולות ממפל</ItemName>
+
+    <ItemID>2946</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>6.00</ItemPrice>
+
+    <ItemName>שבלונה אומנותית פורים</ItemName>
+
+    <ItemID>2947</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>23.00</ItemPrice>
+
+    <ItemName>סיפורילות לפורים</ItemName>
+
+    <ItemID>2948</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>10.00</ItemPrice>
+
+    <ItemName>ערכת ארבע מצוות לפורים</ItemName>
+
+    <ItemID>2949</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>סמלי פורים מסול נצנצים</ItemName>
+
+    <ItemID>2950</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>כוכב מסול נוצץ</ItemName>
+
+    <ItemID>2951</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>14.00</ItemPrice>
+
+    <ItemName>כתא מלך/ מלכה ליצירה פורים</ItemName>
+
+    <ItemID>2952</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>22.00</ItemPrice>
+
+    <ItemName>כרזה פורים שמח</ItemName>
+
+    <ItemID>2953</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>גזירות סול ליצנים</ItemName>
+
+    <ItemID>2954</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>גזירות סול ליצנים נצנץ</ItemName>
+
+    <ItemID>2955</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>17.00</ItemPrice>
+
+    <ItemName>עבודת יצירה ליצן לצביעה עם מדבקות</ItemName>
+
+    <ItemID>2957</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>14.00</ItemPrice>
+
+    <ItemName>הסוס של המן</ItemName>
+
+    <ItemID>2961</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת פסח</ItemName>
+
+    <ItemID>3000</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת אביב</ItemName>
+
+    <ItemID>3001</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת עשר המכות</ItemName>
+
+    <ItemID>3002</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת ניקיון הבית</ItemName>
+
+    <ItemID>3003</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות פסח כשר</ItemName>
+
+    <ItemID>3004</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>25.00</ItemPrice>
+
+    <ItemName>הגדה שלי לפסח</ItemName>
+
+    <ItemID>3005</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>12.00</ItemPrice>
+
+    <ItemName>מצות</ItemName>
+
+    <ItemID>3006</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>21.00</ItemPrice>
+
+    <ItemName>עבודת יצירה קערה עם מדבקות</ItemName>
+
+    <ItemID>3007</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>מדבקות דש פסח</ItemName>
+
+    <ItemID>3008</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות לקערת פסח</ItemName>
+
+    <ItemID>3009</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות סמלי פסח</ItemName>
+
+    <ItemID>3010</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>15.00</ItemPrice>
+
+    <ItemName>מגש מצות</ItemName>
+
+    <ItemID>3011</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>21.00</ItemPrice>
+
+    <ItemName>עבודת יצירה שלושת הפרפרים</ItemName>
+
+    <ItemID>3012</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>14.00</ItemPrice>
+
+    <ItemName>עבודת יצירה פירמידה</ItemName>
+
+    <ItemID>3013</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>21.00</ItemPrice>
+
+    <ItemName>עבודה יצירה פסח כשר ושמח</ItemName>
+
+    <ItemID>3014</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>עבודת יצירה פרפרים באביב</ItemName>
+
+    <ItemID>3015</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>עבודת יצירה פרחים באביב</ItemName>
+
+    <ItemID>3016</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>21.00</ItemPrice>
+
+    <ItemName>עבודת יצירה משה בתיבה</ItemName>
+
+    <ItemID>3018</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>10.00</ItemPrice>
+
+    <ItemName>יצירה משה ואהרון</ItemName>
+
+    <ItemID>3019</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>17.00</ItemPrice>
+
+    <ItemName>עבודת יצירה בדיקת חמץ</ItemName>
+
+    <ItemID>3021</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>גזירות סמלי פסח מודפסות</ItemName>
+
+    <ItemID>3022</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>גזירות פרפרים</ItemName>
+
+    <ItemID>3023</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות פרפרים 2.5</ItemName>
+
+    <ItemID>3024</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות פרחים 2.5</ItemName>
+
+    <ItemID>3025</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>10.00</ItemPrice>
+
+    <ItemName>שבלונות סמלי חג פסח</ItemName>
+
+    <ItemID>3026</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט פסח כשר ושמח</ItemName>
+
+    <ItemID>3027</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט סמלי פסח</ItemName>
+
+    <ItemID>3028</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט אביב</ItemName>
+
+    <ItemID>3029</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט סמלי אביב</ItemName>
+
+    <ItemID>3030</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט הכוס של אליהו</ItemName>
+
+    <ItemID>3031</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט שלושת הפרפרים</ItemName>
+
+    <ItemID>3032</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט אגוז של זהב</ItemName>
+
+    <ItemID>3033</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת היין</ItemName>
+
+    <ItemID>3034</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת פרפר טוואי המשי</ItemName>
+
+    <ItemID>3036</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת פרחי אביב</ItemName>
+
+    <ItemID>3037</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>12.00</ItemPrice>
+
+    <ItemName>חוברת טיפים פסח</ItemName>
+
+    <ItemID>3038</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>גזירות אגוז של זהב</ItemName>
+
+    <ItemID>3040</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>גזירות כוסו של אליהו</ItemName>
+
+    <ItemID>3041</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>גזירות סול פרפרים</ItemName>
+
+    <ItemID>3042</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>גזירות סול בקבוקים וכוסות</ItemName>
+
+    <ItemID>3043</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>11.00</ItemPrice>
+
+    <ItemName>דפים מעוצבים פסח</ItemName>
+
+    <ItemID>3044</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>11.00</ItemPrice>
+
+    <ItemName>דפים מעוצבים אביב</ItemName>
+
+    <ItemID>3045</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>רקעי קישוט אביב</ItemName>
+
+    <ItemID>3046</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>6.00</ItemPrice>
+
+    <ItemName>פסי קישוט אביב</ItemName>
+
+    <ItemID>3047</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>14.00</ItemPrice>
+
+    <ItemName>יצירה ספירת העומר</ItemName>
+
+    <ItemID>3049</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>חותמות ספוג פסח</ItemName>
+
+    <ItemID>3051</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>חותמות ספוג פרפרים</ItemName>
+
+    <ItemID>3052</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>שקפים לפסח</ItemName>
+
+    <ItemID>3053</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>סמלי אביב ממפל</ItemName>
+
+    <ItemID>3054</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>שולחן סדר פסח ממפל</ItemName>
+
+    <ItemID>3055</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות חרקים 2.2</ItemName>
+
+    <ItemID>3056</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות פרחים 1.6</ItemName>
+
+    <ItemID>3057</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות דבורה 2.5 סמ</ItemName>
+
+    <ItemID>3058</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות חיפושית 1.6</ItemName>
+
+    <ItemID>3059</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות חיפושית 2.5</ItemName>
+
+    <ItemID>3060</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>14.00</ItemPrice>
+
+    <ItemName>סמלי אביב לצביעה וקישוט</ItemName>
+
+    <ItemID>3061</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>18.00</ItemPrice>
+
+    <ItemName>מובייל שקף אביב</ItemName>
+
+    <ItemID>3062</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>10.00</ItemPrice>
+
+    <ItemName>שבלונה אביב</ItemName>
+
+    <ItemID>3063</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>כרזה מפל אביב הגיע</ItemName>
+
+    <ItemID>3064</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>פרחים גדולים</ItemName>
+
+    <ItemID>3065</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>פרפרים גדולים</ItemName>
+
+    <ItemID>3066</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>כרזה מפל פסח</ItemName>
+
+    <ItemID>3067</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>18.00</ItemPrice>
+
+    <ItemName>מובייל פסח</ItemName>
+
+    <ItemID>3069</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>21.00</ItemPrice>
+
+    <ItemName>יצירה ניקיון הבית</ItemName>
+
+    <ItemID>3070</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>סול נצנצים בקבוקים וכוסות</ItemName>
+
+    <ItemID>3071</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>סול נצנצים פרפרים</ItemName>
+
+    <ItemID>3072</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>2.20</ItemPrice>
+
+    <ItemName>הגדה גדולה לפסח</ItemName>
+
+    <ItemID>3073</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>12.00</ItemPrice>
+
+    <ItemName>ערכת שמות חג הפסח</ItemName>
+
+    <ItemID>3074</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>גזירות פרחים מקרטון</ItemName>
+
+    <ItemID>3075</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת סיפור ההגדה</ItemName>
+
+    <ItemID>3076</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>14.00</ItemPrice>
+
+    <ItemName>סמלי פסח לצביעה וקישוט</ItemName>
+
+    <ItemID>3077</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>29.00</ItemPrice>
+
+    <ItemName>סיפור המחשה מעשה במצה שלא מצאה</ItemName>
+
+    <ItemID>3078</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט משה בתיבה</ItemName>
+
+    <ItemID>3079</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>יצירה חיפושית להרכבה</ItemName>
+
+    <ItemID>3080</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>יצירה פרפר עם מדבקות</ItemName>
+
+    <ItemID>3081</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>יצירה דבורה להרכבה</ItemName>
+
+    <ItemID>3082</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>36.00</ItemPrice>
+
+    <ItemName>סיפור המחשה נסיכולה מלוכלכולה</ItemName>
+
+    <ItemID>3083</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט יום העצמאות</ItemName>
+
+    <ItemID>3100</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט ארץ ישראל שלי</ItemName>
+
+    <ItemID>3101</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט מפת ארץ ישראל</ItemName>
+
+    <ItemID>3102</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>פוסטר קטן סמל המדינה</ItemName>
+
+    <ItemID>3103</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>פוסטר קטן דגל המדינה</ItemName>
+
+    <ItemID>3104</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>פוסטר קטן המנון התקווה</ItemName>
+
+    <ItemID>3105</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>פוסטר קטן נשיא המדינה</ItemName>
+
+    <ItemID>3106</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>פוסטר קטן ראש הממשלה</ItemName>
+
+    <ItemID>3107</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>פוסטר קטן רמטכל</ItemName>
+
+    <ItemID>3108</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>פוסטר קטן הרצל</ItemName>
+
+    <ItemID>3109</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>פוסטר קטן תפילה לשלום המדינה</ItemName>
+
+    <ItemID>3110</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>פוסטר מגילת העצמאות</ItemName>
+
+    <ItemID>3111</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת יום העצמאות ויום הזיכרון</ItemName>
+
+    <ItemID>3112</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת תמונות סמל המדינה</ItemName>
+
+    <ItemID>3113</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת תמונות דגל המדינה</ItemName>
+
+    <ItemID>3114</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>מדבקות דש עצמאות</ItemName>
+
+    <ItemID>3115</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות בינוניות סמל</ItemName>
+
+    <ItemID>3116</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות בינוניות דגל</ItemName>
+
+    <ItemID>3117</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות מיני סמל</ItemName>
+
+    <ItemID>3118</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות דגלים 1.6</ItemName>
+
+    <ItemID>3119</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>6.00</ItemPrice>
+
+    <ItemName>דגלים מנייר לקישוט</ItemName>
+
+    <ItemID>3120</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>6.00</ItemPrice>
+
+    <ItemName>סמלים מנייר לקישוט</ItemName>
+
+    <ItemID>3121</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>יצירה חוגגים עצמאות</ItemName>
+
+    <ItemID>3122</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>יצירה חג היום לישראל</ItemName>
+
+    <ItemID>3123</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>תעודת זהות</ItemName>
+
+    <ItemID>3124</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>12.00</ItemPrice>
+
+    <ItemName>חוברת טיפים עצמאות</ItemName>
+
+    <ItemID>3125</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>פלקט יום השואה בינוני</ItemName>
+
+    <ItemID>3126</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>10.00</ItemPrice>
+
+    <ItemName>שבלונות סמלי עצמאות</ItemName>
+
+    <ItemID>3127</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>גזירות סול יונה כחול לבן</ItemName>
+
+    <ItemID>3128</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>חותמות ספוג עצמאות</ItemName>
+
+    <ItemID>3129</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>גזירות סול פרחים כחול לבן</ItemName>
+
+    <ItemID>3130</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>גזירות סול מגן דוד כחול לבן</ItemName>
+
+    <ItemID>3131</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>גזירות סמלי עצמאות מודפסות</ItemName>
+
+    <ItemID>3132</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>10.00</ItemPrice>
+
+    <ItemName>פסיפס סול יום העצמאות</ItemName>
+
+    <ItemID>3133</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות סמלי עצמאות 2.5</ItemName>
+
+    <ItemID>3134</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות דגלים 2.5</ItemName>
+
+    <ItemID>3135</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>יצירה הנפת הדגל</ItemName>
+
+    <ItemID>3136</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>פלקט תעודת זהות</ItemName>
+
+    <ItemID>3137</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>פלקט יזכור</ItemName>
+
+    <ItemID>3138</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>פלקט מפת א"י צרה</ItemName>
+
+    <ItemID>3139</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>15.00</ItemPrice>
+
+    <ItemName>ערכת נשיאי המדינה</ItemName>
+
+    <ItemID>3140</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>15.00</ItemPrice>
+
+    <ItemName>ערכת ראשי ממשלה</ItemName>
+
+    <ItemID>3141</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט ארצנו היפה</ItemName>
+
+    <ItemID>3142</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת נופים ואתרים</ItemName>
+
+    <ItemID>3143</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת שבעה עשורים</ItemName>
+
+    <ItemID>3144</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>12.00</ItemPrice>
+
+    <ItemName>פסי קישוט עצמאות</ItemName>
+
+    <ItemID>3145</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>שקפים ליום העצמאות</ItemName>
+
+    <ItemID>3146</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות מגני דוד 2.5</ItemName>
+
+    <ItemID>3147</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת לאום</ItemName>
+
+    <ItemID>3148</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>18.00</ItemPrice>
+
+    <ItemName>מובייל יום העצמאות</ItemName>
+
+    <ItemID>3150</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>14.00</ItemPrice>
+
+    <ItemName>סמלי המדינה לצביעה וקישוט</ItemName>
+
+    <ItemID>3151</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>21.00</ItemPrice>
+
+    <ItemName>כובעי יום העצמאות</ItemName>
+
+    <ItemID>3152</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>21.00</ItemPrice>
+
+    <ItemName>יצירה מפה ואתרים</ItemName>
+
+    <ItemID>3153</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>כרזה עצמאות לישראל ממפל</ItemName>
+
+    <ItemID>3154</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות כחול לבן 2.5</ItemName>
+
+    <ItemID>3155</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות כחול לבן 1.6</ItemName>
+
+    <ItemID>3156</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות כחול לבן מטרה</ItemName>
+
+    <ItemID>3157</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>14.00</ItemPrice>
+
+    <ItemName>סמלי עצמאות וצהל לצביעה וקישוט</ItemName>
+
+    <ItemID>3159</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>סול פרחים נצנץ</ItemName>
+
+    <ItemID>3160</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>סול מגן דוד נצנץ</ItemName>
+
+    <ItemID>3161</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>סול יונים נצנץ</ItemName>
+
+    <ItemID>3162</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>יצירה יונה להרכבה</ItemName>
+
+    <ItemID>3164</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>יצירה עוגת יום הולדת למדינה</ItemName>
+
+    <ItemID>3165</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת לג בעומר</ItemName>
+
+    <ItemID>3200</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט לג בעומר</ItemName>
+
+    <ItemID>3201</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט סמלי לג בעומר</ItemName>
+
+    <ItemID>3202</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>12.00</ItemPrice>
+
+    <ItemName>חוברת טיפים לג בעומר</ItemName>
+
+    <ItemID>3203</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>17.00</ItemPrice>
+
+    <ItemName>יצירה מסביב למדורה</ItemName>
+
+    <ItemID>3205</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת סיפור לג בעומר</ItemName>
+
+    <ItemID>3206</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>גזירות סמלי לג בעומר</ItemName>
+
+    <ItemID>3207</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>שקפים לג בעומר</ItemName>
+
+    <ItemID>3208</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>גזירות סול סמלי לג בעומר</ItemName>
+
+    <ItemID>3209</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>10.00</ItemPrice>
+
+    <ItemName>פסיפס סול לג בעומר</ItemName>
+
+    <ItemID>3210</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות סמלי לג בעומר</ItemName>
+
+    <ItemID>3211</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות מדורה</ItemName>
+
+    <ItemID>3212</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>10.00</ItemPrice>
+
+    <ItemName>מקלות קרטיב לג בעומר</ItemName>
+
+    <ItemID>3213</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>17.00</ItemPrice>
+
+    <ItemName>יצירה מדורה תלת מימד</ItemName>
+
+    <ItemID>3214</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט ספירת העומר</ItemName>
+
+    <ItemID>3215</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>14.00</ItemPrice>
+
+    <ItemName>סמלי לג בעומר לצביעה וקישוט</ItemName>
+
+    <ItemID>3217</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>פלקט מדורה בינוני</ItemName>
+
+    <ItemID>3218</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>10.00</ItemPrice>
+
+    <ItemName>שבלונה לג בעומר</ItemName>
+
+    <ItemID>3219</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות עומר צבעוני 2.5</ItemName>
+
+    <ItemID>3220</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות עומר צבעוני 1.6</ItemName>
+
+    <ItemID>3221</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות עומר צבעוני מטרה</ItemName>
+
+    <ItemID>3222</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>כרזה מפל לג בעומר</ItemName>
+
+    <ItemID>3223</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>חותמות ספוג לג בעומר</ItemName>
+
+    <ItemID>3224</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>יצירה דליק לא דליק</ItemName>
+
+    <ItemID>3225</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות דליק לא דליק</ItemName>
+
+    <ItemID>3226</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>12.00</ItemPrice>
+
+    <ItemName>ערכה מה לא עושים בספירת העומר</ItemName>
+
+    <ItemID>3227</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>יצירה סלסלה תלת מימד</ItemName>
+
+    <ItemID>3426</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט אני וגופי</ItemName>
+
+    <ItemID>3700</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>פלקט אני ופני</ItemName>
+
+    <ItemID>3701</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>פלקט חושים</ItemName>
+
+    <ItemID>3702</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת חושים</ItemName>
+
+    <ItemID>3703</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>17.00</ItemPrice>
+
+    <ItemName>עבודת יצירה אני וגופי</ItemName>
+
+    <ItemID>3705</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>17.00</ItemPrice>
+
+    <ItemName>עבודת יצירה אני ופני</ItemName>
+
+    <ItemID>3706</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>12.00</ItemPrice>
+
+    <ItemName>טיפים אני וגופי</ItemName>
+
+    <ItemID>3707</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות פרפרים 3.5</ItemName>
+
+    <ItemID>3738</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>10.00</ItemPrice>
+
+    <ItemName>שבלונות שבת</ItemName>
+
+    <ItemID>3800</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>16.00</ItemPrice>
+
+    <ItemName>שקפים שבת</ItemName>
+
+    <ItemID>3801</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>גזירות שבת קרטון</ItemName>
+
+    <ItemID>3802</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>מדבקות דש אמא של שבת</ItemName>
+
+    <ItemID>3805</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>מדבקות דש אבא של שבת</ItemName>
+
+    <ItemID>3806</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>12.00</ItemPrice>
+
+    <ItemName>כתר אמא של שבת</ItemName>
+
+    <ItemID>3807</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>12.00</ItemPrice>
+
+    <ItemName>כתר אבא של שבת</ItemName>
+
+    <ItemID>3808</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>11.00</ItemPrice>
+
+    <ItemName>דפים מעוצבים שבת</ItemName>
+
+    <ItemID>3809</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט סמלי שבת</ItemName>
+
+    <ItemID>3811</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט שבת שלום</ItemName>
+
+    <ItemID>3812</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>ערכת שבת</ItemName>
+
+    <ItemID>3813</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות סמלי שבת</ItemName>
+
+    <ItemID>3814</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות שבת שלום</ItemName>
+
+    <ItemID>3815</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>שבלונות סמלים יהודיים</ItemName>
+
+    <ItemID>3816</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>12.00</ItemPrice>
+
+    <ItemName>חוברת טיפים שבת</ItemName>
+
+    <ItemID>3817</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>18.00</ItemPrice>
+
+    <ItemName>מובייל שקף שבת</ItemName>
+
+    <ItemID>3818</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>מדבקות דש שבת</ItemName>
+
+    <ItemID>3820</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>14.00</ItemPrice>
+
+    <ItemName>סמלי שבת לצביעה וקישוט</ItemName>
+
+    <ItemID>3821</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>כרזה שבת שלום מפל</ItemName>
+
+    <ItemID>3822</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>פלקט אבא אמא שבת</ItemName>
+
+    <ItemID>3823</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>7.00</ItemPrice>
+
+    <ItemName>תליון אמא אבא שבת</ItemName>
+
+    <ItemID>3824</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>39.00</ItemPrice>
+
+    <ItemName>סיפור המחשה פרפרים של שישישבת</ItemName>
+
+    <ItemID>3825</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>21.00</ItemPrice>
+
+    <ItemName>קופסאת מתנה גדולה</ItemName>
+
+    <ItemID>3836</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>22.00</ItemPrice>
+
+    <ItemName>גב לכיסא יום הולדת</ItemName>
+
+    <ItemID>3900</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>אלבום או תיק יום הולדת</ItemName>
+
+    <ItemID>3901</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>14.00</ItemPrice>
+
+    <ItemName>חוברת יום הולדת</ItemName>
+
+    <ItemID>3902</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>11.00</ItemPrice>
+
+    <ItemName>דפים מעוצבים יום הולדת</ItemName>
+
+    <ItemID>3903</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>19.00</ItemPrice>
+
+    <ItemName>כתרים ליום הולדת</ItemName>
+
+    <ItemID>3904</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>8.00</ItemPrice>
+
+    <ItemName>מדבקות דש ליום הולדת</ItemName>
+
+    <ItemID>3905</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>9.00</ItemPrice>
+
+    <ItemName>דיסק יום הולדת</ItemName>
+
+    <ItemID>3906</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>23.00</ItemPrice>
+
+    <ItemName>כרזה ופלקט מפל יום הולדת</ItemName>
+
+    <ItemID>3907</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>13.00</ItemPrice>
+
+    <ItemName>פלקט סמלי יום הולדת</ItemName>
+
+    <ItemID>3908</ItemID>
+  </Item>
+
+  <Item>
+
+    <ItemPrice>4.00</ItemPrice>
+
+    <ItemName>מדבקות יום הולדת</ItemName>
+
+    <ItemID>3909</ItemID>
+  </Item>
+</Items>
